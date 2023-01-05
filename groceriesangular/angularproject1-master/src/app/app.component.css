@@ -1,0 +1,22 @@
+#text{
+    font-family: "Brush Script MT", cursive;
+    color:whitesmoke;
+    position: relative;
+    float: left;
+}
+#container1{
+    height: 125px;
+    background-color: #659DBD;
+}
+#text2{
+    float: right;
+    font-family: "Brush Script MT", cursive;
+    font-size: 30px;
+    color: cadetblue;
+}
+/* h3{
+    //color: whitesmoke;
+} */
+body{
+    background-color: #659DBD; 
+}
